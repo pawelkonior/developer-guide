@@ -1,3 +1,9 @@
+# Overview
+
+![Gitflow](assets/gitflow.jpg)
+
+
+
 ## Branch Types and Naming Conventions
 
 | **Branch Type** | **Example**                      | **Description** |
